@@ -30,3 +30,9 @@ main {
 main:has(.back-link) {
   text-align: center;
 }
+
+.list {
+  padding: 20px;
+  font-size: larger;
+  font-weight: 600;
+}
