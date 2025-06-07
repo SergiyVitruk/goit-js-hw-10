@@ -35,5 +35,6 @@ function handleSubmit(event) {
           position: 'topRight',
         })
       );
+    form.reset();
   }, delayValue);
 }
